@@ -22,13 +22,13 @@ This project uses image recognition techniques to monitor the health of coral re
 ## Example Images
 
 - **The Current Image**:
-  ![Current Image](link_to_current_image)
+  ![Current Image](images/image4.jpg)
 - **The Last Year Image**:
-  ![Last Year Image](link_to_last_year_image)
+  ![Last Year Image](images/image3.png)
 - **The Aligned Image**:
-  ![Aligned Image](link_to_aligned_image)
+  ![Aligned Image](images/image2.jpg)
 - **The Final Image**:
-  ![Final Image](link_to_final_image)
+  ![Final Image](images/image1.jpg)
 
 ## License
 
